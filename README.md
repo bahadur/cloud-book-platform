@@ -50,7 +50,7 @@ There are two roles in this application called.
 - AUTHOR
 - COLLABORATOR
 
-## AUTHOR
+## Author
 Author role has the permission to manage users, create and update folder and files.
 - CREATE_FOLDER
 - UPDATE_FOLDER
@@ -62,7 +62,7 @@ Author role has the permission to manage users, create and update folder and fil
 - REVOKE_ROLE
 - VIEW_USERS
 
-# COLLABORATOR
+## Collaborator
 Collaborator role has limited permission. This role can not create folder or file and can not manage users.
 - UPDATE_FOLDER
 - DELETE_FOLDER
